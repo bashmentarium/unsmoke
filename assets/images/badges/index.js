@@ -1,0 +1,7 @@
+export const icebreaker = require('./Icebreaker_badge.png')
+export const comedian = require('./Comedian_badge.png')
+export const awaken = require('./Awaken_badge.png')
+export const savant = require('./Savant_badge.png')
+export const transformer = require('./Transformer_badge.png')
+export const disabled = require('./Disabled_badge.png')
+export const novice = require('./Novice_badge.png')
