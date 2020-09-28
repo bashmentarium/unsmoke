@@ -11,7 +11,7 @@ App meant to help people overcome the tobacco addiction
 
   In order to ditch the destructive habit of smoking, all you have to do is to complete the suggested exercises. Step by step.
 
-[Buy](https://play.google.com/store/apps/details?id=unsmoke.app "Buy")
+[Open in Google Play Store](https://play.google.com/store/apps/details?id=unsmoke.app "Buy")
 
 # Demo
 ![](Demo.gif)
