@@ -1,5 +1,5 @@
 node_modules
-utils
+apiKey.js
 api
 config
 .DS_Store
