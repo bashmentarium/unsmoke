@@ -1,5 +1,6 @@
 # Unsmoke
 Overcome tobacco addiction with this habit-forming app!
+
 [![Foo](google-play-badge.png)](https://play.google.com/store/apps/details?id=unsmoke.app)
 
 ## Demo
