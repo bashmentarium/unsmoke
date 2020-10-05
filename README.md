@@ -20,7 +20,7 @@ This is a mobile app with exercises, tips and NLP techniques that help people ov
 ## Project debrief
 The main challenges of the project were:
  - Build a mobile app for both major platforms
- - Transform 40,000 words from paper into a mobile app with authentication, profile dashboard, exercises, questionnaires, diary, achievements.
+ - Transform 40,000 words on paper into a mobile app with authentication, profile dashboard, exercises, questionnaires, diary, achievements.
  - Authenticate users with firebase
  - Securely store user profiles in a database
 
